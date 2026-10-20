@@ -1,0 +1,6 @@
+{
+  "name": "SimuBiz - Simulateur d'Entreprise Virtuelle",
+  "description": "Plateforme pédagogique de simulation d'entreprise virtuelle avec espaces Formateur et Entreprises, gestion multi-services (Finance, RH, Marketing, Commerce, Comptabilité) et classements compétitifs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
